@@ -1,0 +1,3 @@
+# Create the empty .nojekyll file as requested.
+with open(".nojekyll", "w") as f:
+    pass
